@@ -42,3 +42,6 @@ function hex(buffer) {
   // Join all the hex strings into one
   return hexCodes.join("");
 }
+#TODO
+#Write tests
+#-->use mocha
